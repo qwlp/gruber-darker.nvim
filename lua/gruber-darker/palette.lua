@@ -25,7 +25,8 @@ M = {
     ["niagara-2"] = Color.new(0x303540),
     ["niagara-1"] = Color.new(0x565f73),
     niagara = Color.new(0x96a6c8),
-    wisteria = Color.new(0x303036),
+    wisteria = Color.new(0x9e95c7),
+    tspmatch = Color.new(0x2b293b),
 }
 
 return M
